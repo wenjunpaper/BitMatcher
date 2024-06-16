@@ -1,4 +1,4 @@
-# Cuckoo Counter
+# BitMatcher
 
 * BitMatcher: Bit-level Counter Adjustment for Sketches (IEEE ICDE, 2024)
 
