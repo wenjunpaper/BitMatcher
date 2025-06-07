@@ -1,9 +1,10 @@
 # BitMatcher
 
-* BitMatcher: Bit-level Counter Adjustment for Sketches (IEEE ICDE, 2024)
+* A Unified Framework for Dynamic Bit-level Counter Allocation in Sketches 
 
-* Authors: Qilong Shi, Chengjun Jia, Wenjun Li*(Corresponding author), Zaoxing Liu, Tong Yang, Jianan Ji, Gaogang Xie, Weizhe Zhang, and Minlan Yu (Qilong Shi and Chengjun Jia contributed equally to this paper, and they conducted this work under the guidance of Wenjun Li and Tong Yang)
-  
+* Authors: Qilong Shi, , Xirui Li, Chengjun Jia, Wenjun Li*, Tong Yang*, Gaogang Xie, Weizhe Zhang, and Mingwei Xu
+* Qilong Shi, Xirui Li, and Chengjun Jia are co-first authors, and they finish this work under the guidance of the corresponding authors Wenjun Li and Tong Yang.
+     
 * Paper Website: https://www.wenjunli.com/BitMatcher
   
 * Corresponding e-mail: wenjunli@pku.org.cn
